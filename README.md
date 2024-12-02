@@ -38,4 +38,4 @@ To run this contract, you can use **Remix**, an online Solidity IDE. Follow thes
 5. Once the code is compiled, go to the **Deploy & Run Transactions** tab. Select the `MyToken` contract from the dropdown menu and click the "Deploy" button.
 
 ## Authors
-- @AngeloCoder27
+- [@AngeloCoder27](https://github.com/AngeloCoder27)
