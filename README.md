@@ -24,7 +24,7 @@ This contract provides all the basic ERC-20 functionality and adds additional fe
 11. **Name**: Returns the name of the token.
 12. **Symbol**: Returns the symbol of the token.
 13. **TotalSupply**: Returns the total supply of the token.
-14. **transferToken** Function for secure token transfer.
+14. **transferToken**: Function for secure token transfer.
 
 ## Getting Started
 
